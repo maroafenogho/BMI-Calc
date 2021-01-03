@@ -1,16 +1,25 @@
 # bmi_calc
 
-A bmi calculator
+A bmi calculator built with flutter. 
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+The project teaches the following
 
-A few resources to get you started if this is your first Flutter project:
+* Use of dart enums
+* Refactoring flutter widgets
+* Creating custom flutter widgets
+* Multi-screen navigation
+* Building flutter widgets from scratch
+* Customising widgets using themes
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Features and libraries used include
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Dart math
+
+
+Screenshots of the project are as follows
+
+<img src="./screen_one.png">
+<img src="./underweight.png">
+<img src="./overweight.png">
