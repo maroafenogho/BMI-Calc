@@ -12,10 +12,7 @@ The project teaches the following
 * Multi-screen navigation
 * Building flutter widgets from scratch
 * Customising widgets using themes
-
-Features and libraries used include
-
-* Dart math
+* Simple calculations using dart
 
 
 Screenshots of the project are as follows
